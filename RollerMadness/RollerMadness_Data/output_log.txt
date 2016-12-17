@@ -1,0 +1,39 @@
+Initialize engine version: 5.3.5f1 (960ebf59018a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 950M (ID=0x139a)
+    Vendor:   NVIDIA
+    VRAM:     2018 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: F:\unity\RollerMadness\RollerMadness\RollerMadness_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading F:\unity\RollerMadness\RollerMadness\RollerMadness_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\unity\RollerMadness\RollerMadness\RollerMadness_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading F:\unity\RollerMadness\RollerMadness\RollerMadness_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: F:\unity\RollerMadness\RollerMadness\RollerMadness_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading F:\unity\RollerMadness\RollerMadness\RollerMadness_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: F:\unity\RollerMadness\RollerMadness\RollerMadness_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading F:\unity\RollerMadness\RollerMadness\RollerMadness_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.039 seconds
+Platform assembly: F:\unity\RollerMadness\RollerMadness\RollerMadness_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: F:\unity\RollerMadness\RollerMadness\RollerMadness_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 29.503590 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 35.963264 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 502.
+Total: 0.326157 ms (FindLiveObjects: 0.091613 ms CreateObjectMapping: 0.021287 ms MarkObjects: 0.173722 ms  DeleteObjects: 0.038773 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.341884 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 443.
+Total: 0.234164 ms (FindLiveObjects: 0.027369 ms CreateObjectMapping: 0.011404 ms MarkObjects: 0.189308 ms  DeleteObjects: 0.005702 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 3014 -> priority: 1 
+  Thread -> id: 2a60 -> priority: 1 
