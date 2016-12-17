@@ -1,0 +1,63 @@
+Initialize engine version: 5.3.5f1 (960ebf59018a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 950M (ID=0x139a)
+    Vendor:   NVIDIA
+    VRAM:     2018 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: F:\unity\BoxShooter\Box Shooter\BoxShooter_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading F:\unity\BoxShooter\Box Shooter\BoxShooter_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\unity\BoxShooter\Box Shooter\BoxShooter_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading F:\unity\BoxShooter\Box Shooter\BoxShooter_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: F:\unity\BoxShooter\Box Shooter\BoxShooter_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading F:\unity\BoxShooter\Box Shooter\BoxShooter_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: F:\unity\BoxShooter\Box Shooter\BoxShooter_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading F:\unity\BoxShooter\Box Shooter\BoxShooter_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: F:\unity\BoxShooter\Box Shooter\BoxShooter_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading F:\unity\BoxShooter\Box Shooter\BoxShooter_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.038 seconds
+Platform assembly: F:\unity\BoxShooter\Box Shooter\BoxShooter_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: F:\unity\BoxShooter\Box Shooter\BoxShooter_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.474411 ms
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1c48 -> priority: 1 
+  Thread -> id: 2b74 -> priority: 1 
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.258438 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 501.
+Total: 0.295746 ms (FindLiveObjects: 0.052078 ms CreateObjectMapping: 0.013684 ms MarkObjects: 0.223900 ms  DeleteObjects: 0.005702 ms)
+
+17.50261
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.206696 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 497.
+Total: 0.242147 ms (FindLiveObjects: 0.035732 ms CreateObjectMapping: 0.013304 ms MarkObjects: 0.187407 ms  DeleteObjects: 0.005321 ms)
+
+44.52098
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.002182 ms
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 513.
+Total: 0.275599 ms (FindLiveObjects: 0.024328 ms CreateObjectMapping: 0.013304 ms MarkObjects: 0.218578 ms  DeleteObjects: 0.019006 ms)
+
+63.04747
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
